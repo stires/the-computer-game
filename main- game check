@@ -1,0 +1,62 @@
+//java build, v 0.1.1
+
+let gameAccess = false;
+
+if (gameAccess = true) {
+    console.log('You have access to the game? If its via GitHub, that is alright. If you got this from any other source, its most likely that it is pirated.')
+} else {
+    game = false 
+    console.log('You still do not have access. get the source on github.');
+}
+
+
+//run a check to see if the the user owns the game
+
+
+let game = true;
+
+if (game) {
+    console.log('The user owns this game. They have access.')
+} else { 
+    console.log('The user needs access to the game. Get the source on GitHub.')
+}
+
+let isLocked = false; 
+
+if (isLocked = true) {
+    console.log('This level is locked.')
+} else { 
+    console.log('This level is unlocked. You can play it.')
+}
+
+
+//sign up on user
+
+let username = '' // the username should be null untill the user creates one
+let defaultUsername;
+
+if (username) {
+    defaultUsername = username;
+} else { 
+    defaultUsername = 'NewUser'
+}
+
+//string generation for the user id
+
+
+let userid = '' //userid should be null until user is registered
+let defaultUserID = ''
+
+Math.random().apply.defaultUserID
+
+if (userid === defaultUserID) {
+    console.log('The users ID has been evaluted and created.') // i need to find a proper fix to this
+} else { 
+    console.log('The user ID has been evaulted, but not created.')
+}
+
+
+if (defaultUserID) {  //lets use string interpolation
+    console.log(`the players unique name is ${username}. Their unique tag `)
+}
+//ok work on lua port
