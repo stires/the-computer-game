@@ -1,7 +1,15 @@
 *.lua linguist-detectable=true 
+
 *.javascript linguist-detectable=true
+
 *.c++ linguist-detectable=true
+
 *.ignore linguist-detectable=true
+
 *.shell linguist-detectable=true
+
 *.properties linguist-detectable=true
+
 *.java linguist-detectable=true
+
+#just to make sure that the languages can be detected
