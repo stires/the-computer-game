@@ -40,4 +40,4 @@ UIS.InputEnded:Connect(function(input, gameProcessedEvent)
 end)
 
 --leftshift (next to caps lock) + p  for shop
-
+--yup
