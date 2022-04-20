@@ -10,3 +10,9 @@ thank you
 ill update this later
 -scirpy
 4/15/22
+
+yup 
+
+have you seen the html??
+
+cool!
