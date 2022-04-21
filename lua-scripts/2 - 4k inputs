@@ -1,0 +1,9 @@
+
+--ctrl shift r hahaa
+
+local ctrlDown = false
+local UIS = game:GetService('UserInputService') or local UserInputService = game:GetService('UserInputService')
+
+UIS.InputBegan:Connect(function(input, gameProc\cessedEvent)
+    if gameProcessedEvent then return end
+end)

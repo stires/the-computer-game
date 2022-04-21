@@ -1,0 +1,7 @@
+
+--lua whitelist
+
+local gameAccessors = {
+    "Eerie_Myst"
+} --only me for now
+--sorry
