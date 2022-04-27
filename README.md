@@ -7,4 +7,4 @@ yeah check that out its pretty cool
 
 this is the main branch, otherwise my side of the tree (directors branch)
 
-##thanks for reading!##
+`thanks for reading!`
