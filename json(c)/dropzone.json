@@ -1,0 +1,61 @@
+//added dropzone
+{
+    "name": "thecomputergame",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "serve": "vue-cli-service serve",
+      "build": "vue-cli-service build",
+      "lint": "vue-cli-service lint",
+      "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'"
+    },
+    "dependencies": {
+      "core-js": "^3.6.5",
+      "denque": "^1.5.0",
+      "fflate": "^0.6.7",
+      "howler": "^2.2.1",
+      "lz-string": "^1.4.4",
+      "pixi.js": "^6.0.1",
+      "vue": "^2.6.11",
+      "vue-i18n": "^8.17.3",
+      "vue-router": "^3.5.1",
+      "vuetify": "^2.4.5",
+      "vuex": "^3.6.2"
+    },
+    "devDependencies": {
+      "@intlify/vue-i18n-loader": "^1.0.0",
+      "@vue/cli-plugin-babel": "~4.5.0",
+      "@vue/cli-plugin-eslint": "~4.5.0",
+      "@vue/cli-service": "~4.5.0",
+      "babel-eslint": "^10.1.0",
+      "deepmerge": "^4.2.2",
+      "eslint": "^6.7.2",
+      "eslint-plugin-vue": "^6.2.2",
+      "node-sass": "^5.0.0",
+      "sass": "^1.32.8",
+      "sass-loader": "^10.1.1",
+      "vue-cli-plugin-i18n": "~1.0.1",
+      "vue-cli-plugin-vuetify": "~2.1.0",
+      "vue-template-compiler": "^2.6.11",
+      "vuetify-loader": "^1.7.0"
+    },
+    "eslintConfig": {
+      "root": true,
+      "env": {
+        "node": true
+      },
+      "extends": [
+        "plugin:vue/essential",
+        "eslint:recommended"
+      ],
+      "parserOptions": {
+        "parser": "babel-eslint"
+      },
+      "rules": {}
+    },
+    "browserslist": [
+      "> 1%",
+      "last 2 versions",
+      "boy we ain't dead"
+    ]
+  }
