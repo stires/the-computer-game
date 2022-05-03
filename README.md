@@ -1,10 +1,9 @@
-### the computer game ###
+### scirpys' computer game ###
 
-this is a school project that is currently in construction which ill release soon. 
-the website should be on my pinned (stires/stires.github.io)
+this is the approximate version of the full release which should be due and out in another 2 weeks
+i appreciate the fact that copystires came in and assisted with editing files
+this should be done soon as a said
 
-yeah check that out its pretty cool
+see ya
 
-this is the main branch, otherwise my side of the tree (directors branch)
-
-`thanks for reading!`
+### :) ####
