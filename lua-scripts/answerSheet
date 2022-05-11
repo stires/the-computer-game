@@ -1,0 +1,24 @@
+----uh 
+-- iwas working on this about 15 hours ago
+-- i need to rewrite the entirety since i was tired and there were a couple faults
+
+local questions = {
+  'ya mum?'
+  'no robux?'
+}
+
+local questionAccessors = {
+  "eerie_myst"
+  "frinedlyX1"
+  "crying_Uncontrollably"
+  "exgrating"
+  "metalgear_bloxxer"
+} --sure let's work with this, i don't know what to do
+
+
+local questionRandomizer = game:Connect(function(questionCalled)
+  local mathCalculator = Math.floor(Math.random() * 2)
+  if mathCalculator = 1 && questionCalled then
+    print(questions[0])
+  end
+end)
