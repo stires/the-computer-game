@@ -1,6 +1,6 @@
 ## welcome to my resource page!
 
-A brief overview about my PLEx Project.
+A brief overview around my plex project.
 
 ## Table of Contents: 
 
