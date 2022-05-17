@@ -1,7 +1,7 @@
 ## welcome to my resource page!
 
 A brief overview around my plex project.
-
+if you don't want to flip through this website, here is an alternative [slideshow[(https://docs.google.com/presentation/d/1ktNmEbd9dQeJD-6g_JwjVgQqjss-nwNc9yBDfUN-KW4/edit#slide=id.gfad8134eea_0_77)
 ## Table of Contents: 
 
 -- How, and Why I Chose my PLEx Topic
@@ -75,7 +75,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+to make it clear, the jekyll theme was created by github
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+for more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
