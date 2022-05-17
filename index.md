@@ -50,7 +50,6 @@ As represented, the 'return' keyword can only be used inside a **'function()'** 
 
 Now, heres an example of my code over this month and a half period: 
 
-```markdown
 
 beginner stage: ![hah.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/hah.png)
 
