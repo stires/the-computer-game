@@ -1,7 +1,7 @@
 ## welcome to my resource page!
 
 A brief overview around my plex project.
-if you don't want to flip through this website, here is an alternative [slideshow[(https://docs.google.com/presentation/d/1ktNmEbd9dQeJD-6g_JwjVgQqjss-nwNc9yBDfUN-KW4/edit#slide=id.gfad8134eea_0_77)
+if you don't want to flip through this website, here is an alternative [slideshow](https://docs.google.com/presentation/d/1ktNmEbd9dQeJD-6g_JwjVgQqjss-nwNc9yBDfUN-KW4/edit#slide=id.gfad8134eea_0_77)
 ## Table of Contents: 
 
 -- How, and Why I Chose my PLEx Topic
@@ -20,9 +20,13 @@ My idea for my PLEx project came originated from something in the back of my min
 And that is exactly what I did. 
 
   My idea was of interest to me, and it was the only one that I had for this experience, so I stuck with it. I had a lot of things to think about, for example: 
-  | when I would finish this project
-  || how much time I would need to put into it
-  ||| and what my final outcome would look like.
+  -- I - when I would finish this project
+  
+  -- II - how much time I would need to put into it
+  
+  -- III - and what my final outcome would look like.
+
+> let's get started
 
 ### What did I Want to Achieve?
 
@@ -32,11 +36,11 @@ And that is exactly what I did.
 
   Over the period of my PLEx project, I encountered several obstacles. A rather significant obstacle I encountered was learning how to code in JavaScript. Though my project has more than JavaScript for functionality, it was still something that I had to take time to learn. 
 A lot of the obstacles I faced had to do with debugging my code. Almost all the time, my code had an error somewhere which interferes with it running, and having to trace back and try to fix that was something that was of difficulty. 
-An example of an undetected error in my code: ![thing.png](src)
+An example of an undetected error in my code: ![thing.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/thing.png)
 
 The faulty I made here was that I used the ‘return’ keyword inside an ‘if’ statement which is at the top. The ‘return’ keyword can only be used inside a function statement ( function() ) 
 
-Here's an example of proper use of 'return': ![hah.png](src)
+Here's an example of proper use of 'return': ![hah.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/hah.png)
 
 This, I later fixed by simply removing the ‘return false’ & ‘return true’ statements.
 (This is an example of my code when I was still learning.)
@@ -48,32 +52,15 @@ Now, heres an example of my code over this month and a half period:
 
 ```markdown
 
-beginner stage: ![hah.png](src)
+beginner stage: ![hah.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/hah.png)
 
 
-middle stage: ![nft.png](src)
+middle stage: ![nft.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/nft.png)
 
 
-advanced stage: ![advanced.png](src)
+advanced stage: ![advanced.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/advanced.png)
 
-ill add more in a sec
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+-- pause work on this tomorrow
 ```
 to make it clear, the jekyll theme was created by github
 
