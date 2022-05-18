@@ -1,7 +1,7 @@
 ## welcome to my resource page!
 
 A brief overview around my plex project.
-if you don't want to flip through this website, here is an alternative [slideshow](https://docs.google.com/presentation/d/1ktNmEbd9dQeJD-6g_JwjVgQqjss-nwNc9yBDfUN-KW4/edit#slide=id.gfad8134eea_0_77)
+if you don't want to go through this website, here is an alternative [slideshow](https://docs.google.com/presentation/d/1ktNmEbd9dQeJD-6g_JwjVgQqjss-nwNc9yBDfUN-KW4/edit#slide=id.gfad8134eea_0_77)
 ## Table of Contents: 
 
 -- How, and Why I Chose my PLEx Topic
@@ -20,6 +20,7 @@ My idea for my PLEx project came originated from something in the back of my min
 And that is exactly what I did. 
 
   My idea was of interest to me, and it was the only one that I had for this experience, so I stuck with it. I had a lot of things to think about, for example: 
+  
   -- I - when I would finish this project
   
   -- II - how much time I would need to put into it
@@ -59,10 +60,29 @@ middle stage: ![nft.png](https://github.com/stires/the-computer-game/blob/gh-pag
 
 advanced stage: ![advanced.png](https://github.com/stires/the-computer-game/blob/gh-pages/src/advanced.png)
 
--- pause work on this tomorrow
-```
-to make it clear, the jekyll theme was created by github
+## My Demonstration of My Learning
 
+of course, there has to be proof of my work, which means that I have to create a product that demonstrates such, & ( i created a quiz/game ) show it off 
+during presentation. 
+
+after all of that thinking, I had to know how much time I would split into each part of my project. i had three regions, which were:
+
+- visual peice / website
+- making a game
+- slideshow presentation
+
+so with all of those to work on, I had to use some time at home as well to work on it and get it done.
+
+## evidence of my learning
+
+to show evidence of what I've done over this two-month period, im creating a game which people will be able to play on friday, may 20th of 2022. 
+
+
+
+credits to github for creating the jekyll theme.
 for more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+check this website actively, i'l be updating it constantly
 
 
